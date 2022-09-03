@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#propio
+
+3-Data_generated/
+
 # Distribution / packaging
 .Python
 build/
